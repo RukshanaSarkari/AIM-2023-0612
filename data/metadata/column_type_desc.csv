@@ -1,0 +1,4 @@
+column_name,type
+EntityId,numerical
+EntityTypeId,categorical
+IsEnabled,categorical
